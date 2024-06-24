@@ -1,0 +1,821 @@
+---Physical Attacks:
+
+Rising Strike (Memory Consumption: 8%)
+-Smack foes high into the air.
+Wonderland Shop: 400 Munny
+Quick Blitz + Cure
+Opinion: 1/5 very small range and not helpful
+
+Quick Blitz (Memory Consumption: 11%)
+-Bash foes with a powerful jumping attack.
+Traverse Town Shop: 400 Munny
+N/A
+Opinion: 2/5 slight change to hit enemies above Sora
+
+Fire Edge (Memory Consumption: 13%)
+-Wrap your Keyblade in flame, then bash foes with a powerful jumping attack.
+Traverse Town Shop: 1800 Munny
+Rising Strike + Aerial Sweep
+Heat Dash + Sliding Dash
+Fire + Quick Blitz
+Fire + Blizzard Edge
+Fira + Quick Blitz
+Fira + Rising Strike
+Opinion: See Quick Blitz
+
+Blizzard Edge (Memory Consumption: 13%)
+-Wrap your Keyblade in ice, then bash foes with a powerful jumping attack.
+Agrabah Shop: 1800 Munny
+Quick Blitz + Rising Strike
+Rising Strike + Sliding Rush
+Blizzard Raid + Fire Edge
+Blizzard + Quick Blitz
+Blizzard + Rising Strike
+Blizzard + Thunder Edge
+Blizzara + Quick Blitz
+Opinion: See Quick Blitz
+
+Thunder Edge (Memory Consumption: 13%)
+-Wrap your Keyblade in lightning, then bash foes with a powerful jumping attack.
+Wonderland Shop: 1800 Munny
+Quick Blitz + Aerial Sweep
+Rising Strike + Air Spiral
+Thunder Raid + Blizzard Buster
+Thunder + Quick Blitz
+Thunder + Rising Strike
+Thunder + Aero Edge
+Thundara + Quick Blitz
+Opinion: See Quick Blitz
+
+Aero Edge (Memory Consumption: 13%)
+-Wrap your Keyblade in wind, then bash foes with a powerful jumping attack.
+Hollow Bastion Riku Shop: 1800 Munny
+Quick Blitz + Sliding Rush
+Rising Strike + Aerial Slam
+Aero + Quick Blitz
+Aero + Rising Strike
+Aero + Fire Edge
+Aerora + Quick Blitz
+Opinion: See Quick Blitz
+
+Sliding Dash (Memory Consumption: 10%)
+-Hits faraway enemies with a sliding attack.
+Traverse Town Shop: 400 Munny
+N/A
+Opinion: 3/5 good range, and can hit many enemies 
+(also good for making long jumps early in the game)
+
+Heat Dash (Memory Consumption: 11%)
+-Wrap yourself in flame, then hit faraway enemies with a sliding attack.
+Traverse Town Shop: 1800 Munny
+Fire Edge + Quick Blitz
+Fire + Sliding Dash
+Fire + Ice Dash
+Fira + Sliding Dash
+Fira + Fire Edge
+Opinion: See Sliding Dash
+
+Ice Dash (Memory Consumption: 12%)
+-Wrap yourself in ice, then hit faraway enemies with a sliding attack.
+Agrabah Shop: 1800 Munny
+Sliding Dash + Round Blitz
+Blizzard Raid + Heat Dash
+Blizzard + Sliding Dash
+Blizzard + Spark Dash
+Blizzara + Sliding Dash
+Blizzara + Blizzard Edge
+Opinion: See Sliding Dash
+
+Spark Dash (Memory Consumption: 11%)
+-Wrap yourself in lightning, then hit faraway enemies with a sliding attack.
+Wonderland Shop: 1800 Munny
+Sliding Dash + Rising Strike
+Thunder Raid + Heat Dash
+Thunder + Sliding Dash
+Thunder + Wind Dash
+Thundara + Sliding Dash
+Thundara + Thunder Edge
+Opinion: See Sliding Dash
+
+Wind Dash (Memory Consumption: 11%)
+-Wrap yourself in wind, then hit faraway enemies with a sliding attack.
+Hollow Bastion Riku Shop: 1800 Munny
+Sliding Dash + Aerial Sweep
+Aero + Sliding Dash
+Aero + Heat Dash
+Aerora + Sliding Dash
+Aerora + Aero Edge
+Opinion: See Sliding Dash
+
+Round Blitz (Memory Consumption: 10%)
+-Punish surrounding foes with a spinning attack.
+Traverse Town Shop: 400 Munny
+N/A
+Opinion: 4/5 Sora often gets surrounded, so a good attack on all sides with large range
+
+Fire Blast (Memory Consumption: 12%)
+-Wrap yourself in fire, then punish surrounding foes with a spinning attack.
+Wonderland Shop: 1800 Munny
+Round Blitz + Rising Strike
+Fire Edge + Rising Strike
+Heat Dash + Rising Strike
+Fire + Round Blitz
+Fire + Blizzard Blast
+Fira + Round Blitz
+Fira + Blizzard Blast
+Opinion: See Round Blitz
+
+Blizzard Blast (Memory Consumption: 12%)
+-Wrap yourself in ice, then punish surrounding foes with a spinning attack.
+Agrabah Shop: 1800 Munny
+Round Blitz + Aerial Sweep
+Blizzard + Round Blitz
+Blizzard + Thunder Blast
+Blizzara + Round Blitz
+Blizzara + Thunder Blast
+Opinion: See Round Blitz
+
+Thunder Blast (Memory Consumption: 12%)
+-Wrap yourself in lightning, then punish surrounding foes with a spinning attack.
+Wonderland Shop: 1800 Munny
+Round Blitz + Sliding Rush
+Thunder + Round Blitz
+Thunder + Aero Blast
+Thundara + Round Blitz
+Thundara + Aero Blast
+Opinion: See Round Blitz
+
+Aero Blast (Memory Consumption: 11%)
+-Wrap yourself in wind, then punish surrounding foes with a spinning attack.
+Hollow Bastion Riku Shop: 1800 Munny
+Round Blitz + Air Spiral
+Aero + Round Blitz
+Aero + Fire Blast
+Aerora + Round Blitz
+Aerora + Fire Blast
+Opinion: See Round Blitz
+
+Sliding Rush (Memory Consumption: 10%)
+-Lay into enemies with a powerful charging attack.
+Hollow Bastion Shop: 400 Munny
+N/A
+Opinion: 2/5 small range, only hit enemies in front, but chance to hit a few
+
+Fire Buster (Memory Consumption: 12%)
+-Wrap your Keyblade in flame, then lay into enemies with a powerful charging attack.
+Hollow Bastion Shop: 1800 Munny
+Sliding Rush + Air Spiral
+Fire + Sliding Rush
+Fire + Aero Buster
+Fira + Sliding Rush
+Fira + Heat Sweep
+Opinion: See Sliding Rush
+
+Blizzard Buster (Memory Consumption: 12%)
+-Wrap your Keyblade in ice, then lay into enemies with a powerful charging attack.
+Hollow Bastion Shop: 1800 Munny
+Sliding Rush + Aerial Slam
+Blizzard + Sliding Rush
+Blizzard + Fire Buster
+Blizzara + Sliding Rush
+Blizzara + Ice Sweep
+Opinion: See Sliding Rush
+
+Thunder Buster (Memory Consumption: 12%)
+-Wrap your Keyblade in lightning, then lay into enemies with a powerful charging attack.
+Hollow Bastion Shop: 1800 Munny
+Sliding Rush + Strike Raid
+Thunder + Sliding Rush
+Thunder + Blizzard Buster
+Thundara + Sliding Rush
+Thundara + Spark Sweep
+Opinion: See Sliding Rush
+
+Aero Buster (Memory Consumption: 12%)
+-Wrap your Keyblade in wind, then lay into enemies with a powerful charging attack.
+Hollow Bastion Riku Shop: 1800 Munny
+Sliding Rush + Land Crash
+Aero + Sliding Rush
+Aero + Thunder Buster
+Aerora + Sliding Rush
+Aerora + Wind Sweep
+Opinion: See Sliding Rush
+
+Aerial Slam (Memory Consumption: 9%)
+-Smack foes over the head.
+Hollow Bastion Shop: 400 Munny
+N/A
+Opinion: 3/5 good chance to hit enemies above and in front of Sora
+
+Fire Slam (Memory Consumption: 12%)
+-Wrap your Keyblade in fire, then smack foes over the head.
+Hollow Bastion Shop: 1800 Munny
+Aerial Slam + Sliding Dash
+Fire + Aerial Slam
+Fire + Heat Storm
+Fire + Aero Slam
+Fira + Aerial Slam
+Opinion: See Aerial Slam
+
+Blizzard Slam (Memory Consumption: 12%)
+-Wrap your Keyblade in ice, then smack foes over the head.
+Hollow Bastion Shop: 1800 Munny
+Aerial Slam + Quick Blitz
+Blizzard + Aerial Slam
+Blizzard + Ice Storm
+Blizzard + Fire Slam
+Blizzara + Aerial Slam
+Opinion: See Aerial Slam
+
+Thunder Slam (Memory Consumption: 12%)
+-Wrap your Keyblade in lightning, then smack foes over the head.
+Hollow Bastion Shop: 1800 Munny
+Aerial Slam + Strike Raid
+Thunder + Aerial Slam
+Thunder + Spark Storm
+Thunder + Blizzard Slam
+Thundara + Aerial Slam
+Opinion: See Aerial Slam
+
+Aero Slam (Memory Consumption: 12%)
+-Wrap your Keyblade in wind, then smack foes over the head.
+Hollow Bastion Riku Shop: 1800 Munny
+Aerial Slam + Land Crash
+Aero + Aerial Slam
+Aero + Wind Storm
+Aero + Thunder Slam
+Aerora + Aerial Slam
+Opinion: See Aerial Slam
+
+Land Crash (Memory Consumption: 10%)
+-Dive at enemies with the Keyblade.
+Hollow Bastion Riku Shop: 400 Munny
+N/A
+Opinion: 2/5 limited range to enemies in front
+
+Heat Dive (Memory Consumption: 12%)
+-Wrap yourself in flame, then dive at enemies with the Keyblade.
+Hollow Bastion Riku Shop: 1800 Munny
+Land Crash + Sliding Dash
+Thunder Buster + Land Crash
+Fire + Ice Dive
+Fira + Land Crash
+Fira + Fire Slam
+Opinion: See Land Crash
+
+Ice Dive (Memory Consumption: 12%)
+-Wrap yourself in ice, then dive at enemies with the Keyblade.
+Hollow Bastion Riku Shop: 1800 Munny
+Land Crash + Quick Blitz
+Blizzard + Land Crash
+Blizzard + Heat Dive
+Blizzara + Land Crash
+Blizzara + Blizzard Slam
+Opinion: See Land Crash
+
+Spark Dive (Memory Consumption: 12%)
+-Wrap yourself in lightning, then dive at enemies with the Keyblade.
+Hollow Bastion Riku Shop: 1800 Munny
+Land Crash + Round Blitz
+Thunder + Land Crash
+Thunder + Wind Dive
+Thundara + Land Crash
+Thundara + Thunder Slam
+Opinion: See Land Crash
+
+Wind Dive (Memory Consumption: 12%)
+-Wrap yourself in wind, then dive at enemies with the Keyblade.
+Hollow Bastion Riku Shop: 1800 Munny
+Land Crash + Aerial Sweep
+Aero + Land Crash
+Aero + Fire Buster
+Aerora + Land Crash
+Aerora + Aero Slam
+Opinion: See Land Crash
+
+Strike Raid (Memory Consumption: 15%)
+-Hurl your Keyblade toward enemies.
+Hollow Bastion Riku Shop: 400 Munny
+N/A
+Opinion: 3/5 Not as good as other KH games, but the height has a chance to hit both ground and air enemies in front
+
+Fire Raid (Memory Consumption: 17%)
+-Wrap your Keyblade in flame, then hurl your Keyblade toward enemies. 
+Hollow Bastion Riku Shop: 1800 Munny
+Strike Raid + Sliding Dash
+Rising Strike + Aero Raid
+Aerial Slam + Heat Dash
+Fire + Strike Raid
+Fira + Strike Raid
+Opinion: See Strike Raid
+
+Blizzard Raid (Memory Consumption: 18%)
+-Wrap your Keyblade in ice, then hurl your Keyblade toward enemies. 
+Hollow Bastion Riku Shop: 1800 Munny
+Strike Raid + Quick Blitz
+Rising Strike + Fire Raid
+Aerial Slam + Ice Dash
+Blizzard + Strike Raid
+Blizzara + Strike Raid
+Opinion: See Strike Raid
+
+Thunder Raid (Memory Consumption: 18%)
+-Wrap your Keyblade in lightning, then hurl your Keyblade toward enemies. 
+Hollow Bastion Riku Shop: 1800 Munny
+Strike Raid + Round Blitz
+Rising Strike + Blizzard Raid
+Aerial Slam + Spark Dash
+Thunder + Strike Raid
+Thundara + Strike Raid
+Opinion: See Strike Raid
+
+Aero Raid (Memory Consumption: 16%)
+-Wrap your Keyblade in wind, then hurl your Keyblade toward enemies. 
+Hollow Bastion Riku Shop: 1800 Munny
+Strike Raid + Land Crash
+Aerial Slam + Wind Dash
+Wind Dash + Thunder Raid
+Aero + Strike Raid
+Aerora + Strike Raid
+Opinion: See Strike Raid
+
+Aerial Sweep (Memory Consumption: 11%)
+-Crack down on surrounding foes with a jumping spin attack
+Wonderland Shop: 400 Munny
+N/A
+Opinion: 4/5 low chance to hit all ground enemies surronding Sora, high chance to hit all air enemies surrounding Sora
+
+Heat Sweep (Memory Consumption: 14%)
+-Wrap yourself in flame, then crack down on surrounding foes with a jumping spin attack.
+Agrabah Shop: 1800 Munny
+Aerial Sweep + Sliding Rush
+Fire + Aerial Sweep
+Fire + Fire Blast
+Fire + Wind Sweep
+Fira + Aerial Sweep
+Opinion: See Aerial Sweep
+
+Ice Sweep (Memory Consumption: 14%)
+-Wrap yourself in ice, then crack down on surrounding foes with a jumping spin attack.
+Agrabah Shop: 1800 Munny
+Aerial Sweep + Air Spiral
+Blizzard + Aerial Sweep
+Blizzard + Blizzard Blast
+Blizzard + Heat Sweep
+Blizzara + Aerial Sweep
+Opinion: See Aerial Sweep
+
+Spark Sweep (Memory Consumption: 14%)
+-Wrap yourself in lightning, then crack down on surrounding foes with a jumping spin attack.
+Agrabah Shop: 1800 Munny
+Aerial Sweep + Aerial Slam
+Thunder + Aerial Sweep
+Thunder + Thunder Blast
+Thunder + Ice Sweep
+Thundara + Aerial Sweep
+Opinion: See Aerial Sweep
+
+Wind Sweep (Memory Consumption: 13%)
+-Wrap yourself in wind, then crack down on surrounding foes with a jumping spin attack.
+Hollow Bastion Riku Shop: 1800 Munny
+Aerial Sweep + Strike Raid
+Aero + Aerial Sweep
+Aero + Aero Blast
+Aero + Spark Sweep
+Aerora + Aerial Sweep
+Opinion: See Aerial Sweep
+
+Air Spiral (Memory Consumption: 13%)
+-Deal multiple hits with a somersault attack. 
+Hollow Bastion Shop: 400 Munny
+N/A
+Opinion: 4/5 hits enemies above, in front of and behind Sora multiple times
+
+Heat Storm (Memory Consumption: 16%)
+-Wrap yourself in flame, then deal multiple hits with a somersault attack.
+Hollow Bastion Shop: 1800 Munny
+Aerial Sweep + Heat Sweep
+Air Spiral + Sliding Dash
+Fire + Air Spiral
+Fire + Fire Buster
+Fire + Wind Storm
+Fira + Air Spiral
+Opinion: See Air Spiral
+
+Ice Storm (Memory Consumption: 16%)
+-Wrap yourself in ice, then deal multiple hits with a somersault attack.
+Hollow Bastion Shop: 1800 Munny
+Aerial Sweep + Ice Sweep
+Air Spiral + Aerial Slam
+Blizzard + Air Spiral
+Blizzard + Blizzard Buster
+Blizzard + Heat Storm
+Blizzara + Air Spiral
+Opinion: See Air Spiral
+
+Spark Storm (Memory Consumption: 16%)
+-Wrap yourself in lightning, then deal multiple hits with a somersault attack.
+Hollow Bastion Shop: 1800 Munny
+Aerial Sweep + Spark Sweep
+Air Spiral + Strike Raid
+Thunder + Air Spiral
+Thunder + Thunder Buster
+Thunder + Ice Storm
+Thundara + Air Spiral
+Opinion: See Air Spiral
+
+Wind Storm (Memory Consumption: 15%)
+-Wrap yourself in wind, then deal multiple hits with a somersault attack.
+Hollow Bastion Riku Shop: 1800 Munny
+Aerial Sweep + Wind Sweep
+Air Spiral + Land Crash
+Aero + Air Spiral
+Aero + Aero Buster
+Aero + Spark Storm
+Aerora + Air Spiral
+Opinion: See Air Spiral
+
+Chain Rave (Memory Consumption: 13%)
+-Hold your Keyblade by the chain and swing it around as you charge. Enemy attacks will bounce right off.
+Castle Oblivion Shop: 11000 Munny
+Fire Raid + Spark Dive
+Thunder Raid + Spark Dive
+Aero Raid + Spark Dive
+Aeroga + Curaga
+Opinion: 4/5 hit enemies directly in front of Sora many times (good for bosses)
+
+Rising Rush (Memory Consumption: 15%)
+-Charge through enemies and deal multiple hits, then finish by knocking them into the air.
+Agrabah Shop: 10000 Munny
+Air Spiral + Wind Dive
+Ice Storm + Wind Dive
+Spark Storm + Wind Dive
+Magnega + Curaga
+Stop + Air Spiral
+Stop + Aero
+Opinion: 4/5 hit air enemies around and in front of Sora 2x times
+
+Muscle Strike (Memory Consumption: 19%)
+-Knock enemies into next week with a single, powerful attack.
+Agrabah Shop: 13000 Munny
+Rising Strike + Land Crash
+Thunder Slam + Land Crash
+Aero Slam + Land Crash
+Thundaga + Curaga
+Opinion: 2/5 hit ground enemies directly in front of Sora (though nice batter swing animation)
+
+Stun Impact (Memory Consumption: 16%)
+-Send out a shock wave that knocks out some surrounding enemies.
+Castle Oblivion Shop: 11000 Munny
+Heat Dive + Land Crash
+Spark Dive + Land Crash
+Wind Dive + Land Crash
+Blizzaga + Curaga
+Opinion: 4/5 ball of energy around Sora hits all in the range and stuns often
+
+Eruption (Memory Consumption: 18%)
+-Drive your Keyblade into the ground and trigger a blast of light that rockets foes skyward.
+SYNTH ONLY
+Magnet Grab + Rising Rush
+Opinion: 5/5 hit both ground and air enemies around Sora with huge range
+
+Zantetsuken (Memory Consumption: 22%)
+-Potentially deal a devastating amount of damage with a single, impossibly fast strike.
+SYNTH ONLY
+Judgment Triad + Gravity Drop
+Opinion: 3/5 limited to only enemies in front of Sora, but range is long and does major of damage
+
+Judgment Triad (Memory Consumption: 24%)
+-Leap backwards, then produce three Keyblades that chase your foes down. 
+SYNTH ONLY
+Wind Tracer + Muscle Strike
+Opinion: 4/5 Reaches far off enemies, and attacks many times
+
+Shock Fall (Memory Consumption: 15%)
+-Leap straight up, then slam your Keyblade into the ground and hit nearby foes with the shock wave.
+SYNTH ONLY
+Triple Firaga + Stun Impact
+Opinion: 3/5 Like Eruption except it only hits ground enemies
+
+Gravity Drop (Memory Consumption: 23%)
+-Produce a sphere of gravity that pulls enemies in, then explodes as you slam them all into the ground.
+SYNTH ONLY
+Wind Tracer + Chain Rave
+Opinion: 5/5 Sucks in all enemies nearby and does massive damage, 
+good against air
+
+---Magical Attacks:
+
+Fire (Memory Consumption: 14%)
+-Launch a ball of fire toward enemies.
+Traverse Town Shop: 800 Munny
+N/A
+Opinion: 2/5 Ball moves forward till it crashes into something, but only his one thing, and burn status isn't that useful
+
+Fira (Memory Consumption: 15%)
+-Launch a ball of fire toward enemies.
+Wonderland Shop: 1600 Munny
+Fire Edge + Round Blitz
+Fire + Fire Edge
+Fire + Cure
+Fire + Slow
+Cure + Fire Edge
+Slow + Fire Edge
+Stop + Fire Edge
+Opinion: See Fire
+
+Firaga (Memory Consumption: 16%)
+-Launch a ball of fire toward enemies.
+SYNTH ONLY
+Fire Blast + Fire Raid
+Fira + Heat Storm
+Confuse + Heat Storm
+Esuna + Heat Storm
+Opinion: See Fire
+
+Triple Firaga (Memory Consumption: 16%)
+-Launch three consecutive balls of fire toward enemies.
+SYNTH ONLY
+Heat Dive + Firaga
+Muscle Strike + Rising Rush
+Firaga + Firaga Burst
+Triple Pursuit + Firaga
+Opinion: 3/5 three balls of fire this time
+
+Firaga Burst (Memory Consumption: 16%)
+-Launch a swift ball of fire toward enemies. The impact will send them reeling.
+SYNTH ONLY
+Stun Impact + Rising Rush
+Fira + Triple Burst
+Firaga + Fire Slam
+Firaga + Triple Burst
+Opinion: 1/5 only because no reason not to use Triple Burst
+
+Triple Burst (Memory Consumption: 16%)
+-Launch a series of swift fireballs toward enemies. The impact will send them reeling.
+SYNTH ONLY
+Chain Rave + Rising Rush
+Fira + Fire Raid 
+Fira + Triple Firaga
+Firaga + Triple Firaga
+Opinion: 4/5 Three balls that knocks people away can be very useful in crowds
+
+Flame Fall (Memory Consumption: 24%)
+-Launch a ball of fire into the air and send it crashing down on an enemy's position
+SYNTH ONLY
+Blizzaga Pursuit + Thundaga
+Opinion: 2/5 Too expensive and ball of fire misses often
+
+Blizzard (Memory Consumption: 19%)
+-Launch a chunk of ice right at enemies. It can pass through multiple targets
+Olympus Shop: 800 Munny
+N/A
+Opinion: 3/5 Much like fire, except ice, and freeze status is useful for extra damage
+
+Blizzara (Memory Consumption: 21%)
+-Launch a chunk of ice right at enemies. It can pass through multiple targets
+Olympus Shop: 1600 Munny
+Ice Dash + Quick Blitz
+Blizzard + Blizzard Edge
+Blizzard + Fire
+Blizzard + Thunder
+Blizzard + Cure
+Blizzard + Slow
+Cure + Blizzard Edge
+Slow + Blizzard Edge
+Stop + Blizzard Edge
+Opinion: See Blizzard
+
+Blizzaga (Memory Consumption: 22%)
+-Launch a chunk of ice right at enemies. It can pass through multiple targets
+SYNTH ONLY
+Ice Dash + Thunder Blast
+Aero Buster + Ice Storm
+Ice Dive + Blizzara
+Confuse + Ice Storm
+Esuna + Ice Storm
+Opinion: See Blizzard
+
+Triple Blizzaga (Memory Consumption: 22%)
+-Launch three consecutive chunks of ice right at enemies. They can pass through multiple targets.
+SYNTH ONLY
+Chain Rave + Stun Impact
+Blizzaga + Blizzaga Pursuit
+Pulse Tracer + Blizzaga
+Tornado Tracer + Blizzaga
+Opinion: 1/5 Because Triple Pursuit is better and costs the same
+
+Blizzaga Pursuit (Memory Consumption: 20%)
+-Launch a chunk of ice that changes direction, hunting down and passing through multiple targets.
+SYNTH ONLY
+Blizzard Raid + Blizzaga
+Muscle Strike + Stun Impact
+Blizzaga + Triple Blizzaga
+Triple Pursuit + Blizzaga
+Opinion: 3/5 Triple Pursuit is better, but sometimes you have to save space
+
+Triple Pursuit (Memory Consumption: 22%)
+-Launch a series of ice chunks that change direction, hunting down and passing through multiple targets.
+SYNTH ONLY
+Chain Rave + Muscle Strike
+Blizzara + Muscle Strike
+Blizzaga + Chain Rave
+Blizzaga Pursuit + Triple Blizzaga
+Opinion: 5/5 The ice chunks chase down everything and last long enough to do good damage if you are close
+
+Icicle Mine (Memory Consumption: 20%)
+-Place an ice crystal in the middle of the air. It will explode if an enemy approaches.
+SYNTH ONLY
+Blizzaga Pursuit + Magnet Grab
+Opinion: 3/5 Good for bosses that move around, but other things are better
+
+Thunder (Memory Consumption: 12%)
+-Hit the surrounding area with multiple lightning bolts.
+Wonderland Shop: 800 Munny
+N/A
+Opinion: 3/5 Hit all enemies around Sora with Thunder
+
+Thundara (Memory Consumption: 15%)
+-Hit the surrounding area with multiple lightning bolts.
+Wonderland Shop: 1600 Munny
+Thunder Edge + Fire
+Spark Dash + Round Blitz
+Thunder + Thunder Edge
+Thunder + Fire
+Thunder + Cure
+Thunder + Slow
+Cure + Thunder Edge
+Slow + Thunder Edge
+Stop + Thunder Edge
+Opinion: See Thunder
+
+Thundaga (Memory Consumption: 16%)
+-Hit the surrounding area with multiple lightning bolts.
+SYNTH ONLY
+Thunder Edge + Aero Raid
+Thunder Edge + Wind Sweep
+Thundara + Spark Storm
+Confuse + Spark Storm
+Esuna + Spark Storm
+Opinion: 4/5 Hit all enemies around Sora within huge range with Thunder
+
+Thunder Tracer (Memory Consumption: 18%)
+-Unleash a wave of lightning bolts that swiftly home in on enemies and deal continual damage.
+SYNTH ONLY
+Thundara + Pulse Tracer
+Thundaga + Thunder Blast
+Thundaga + Firaga
+Thundaga + Pulse Tracer
+Opinion: 3/5 The speed is nice, but makes it easier for the bolts to miss
+
+Pulse Tracer (Memory Consumption: 18%)
+-Unleash a wave of lightning bolts that slowly home in on enemies and deal continual damage
+SYNTH ONLY
+Spark Sweep + Thundaga
+Thundara + Thundaga
+Thundaga + Aeroga
+Thundaga + Thunder Tracer
+Opinion: 4/5 The slow homing allows enemies to be tracked more easily
+
+Exo Spark (Memory Consumption: 20%)
+-Discharge a torrent of electricity that deals continual damage to surrounding foes.
+SYNTH ONLY
+Triple Blizzaga + Thundaga
+Opinion: 5/5 hit all enemies around Sora multiple times
+
+Aero (Memory Consumption: 15%)
+-Shoot a gust of wind at enemies that lifts them into the air.
+Hollow Bastion Riku Shop: 800 Munny
+N/A
+Opinion: 3/5 Much like fire, but enemies stunned in the air is helpful
+
+Aerora (Memory Consumption: 16%)
+-Shoot a gust of wind at enemies that lifts them into the air.
+SYNTH ONLY
+Aero + Aero Edge
+Cure + Aero Edge
+Slow + Aero Edge
+Stop + Aero Edge
+Opinion: See Aero
+
+Aeroga (Memory Consumption: 17%)
+-Shoot a gust of wind at enemies that lifts them into the air.
+SYNTH ONLY
+Wind Sweep + Cure
+Wind Sweep + Slow
+Aerora + Wind Storm
+Confuse + Wind Storm
+Esuna + Wind Storm
+Opinion: See Aero
+
+Tornado Tracer (Memory Consumption: 18%)
+-Shoot a gust of wind that homes in on enemies and keeps them airborne.
+SYNTH ONLY
+Firaga + Curaga
+Aerora + Wind Dash
+Aerora + Wind Tracer
+Aeroga + Wind Tracer 
+Magnega + Firaga
+Opinion: 3/5 The gust is slow and tracks, but I prefer the extra damage
+
+Wind Tracer (Memory Consumption: 18%)
+-Shoot a gust of wind that homes in on enemies and deals continual damage.
+SYNTH ONLY
+Aeroga + Firaga
+Tornado Tracer + Aeroga
+Esuna + Aerora
+Esuna + Aeroga
+Opinion: 4/5 The gust tracks nearby enemies, and extra damage helps
+
+Cyclone (Memory Consumption: 17%)
+-Call upon the wind to pull surrounding enemies in, then fling them high into the air.
+SYNTH ONLY
+Wind Tracer + Pulse Tracer
+Opinion: 5/5 Attacks all enemies around Sora, and is quite cheep on memory
+
+Cure (Memory Consumption: 9%)
+-Recover a small amount of HP.
+Olympus Shop: 800 Munny
+Round Blitz + Slow
+Opinion: 3/5 Better then Potions
+
+Cura (Memory Consumption: 10%)
+-Recover a large amount of HP.
+Hollow Bastion Riku Shop: 2400 Munny
+Blizzard Raid + Cure
+Magnera + Cure
+Slow + Cure
+Stop + Cure
+Opinion: 3/5 Better then Potions
+
+Curaga (Memory Consumption: 11%)
+-Recover a huge amount of HP.
+SYNTH ONLY
+Heat Dive + Cura
+Confuse + Cura
+Esuna + Cura
+Opinion: 3/5 Better then Potions
+
+Esuna (Memory Consumption: 10%)
+-Cure all negative status effects and restore a very small amount of HP.
+Hollow Bastion Riku Shop: 800 Munny
+N/A
+Opinion: 3/5 Useful to have when facing deleters
+
+Magnet (Memory Consumption: 17%)
+-Use magnetic force to pull surrounding enemies toward you and deal a small amount of damage.
+Hollow Bastion Riku Shop: 800 Munny
+N/A
+Opinion: 3/5 Always nice to have enemies close and stunned
+
+Magnera (Memory Consumption: 17%)
+-Use magnetic force to pull surrounding enemies toward you and deal a small amount of damage.
+Hollow Bastion Riku Shop: 2400 Munny
+Blizzard Slam + Magnet
+Cure + Magnet
+Slow + Magnet
+Stop + Magnet
+Opinion: See Magnet
+
+Magnega (Memory Consumption: 21%)
+-Use magnetic force to pull surrounding enemies toward you and deal a small amount of damage.
+SYNTH ONLY
+Curaga + Magnera
+Confuse + Magnera
+Esuna + Magnera
+Opinion: 4/5 Range is huge but is kinda expensive, consider Magnera
+
+Magnet Grab (Memory Consumption: 18%)
+-Launch a ball of magnetism toward foes. The enemy it hits will be pulled toward you.
+SYNTH ONLY
+Magnera + Magnega
+Magnega + Blizzaga
+Stop + Magnega
+Wind Tracer + Magnega
+Opinion: 1/5 Does not seem to work, not worth the price
+
+Slow (Memory Consumption: 14%)
+-Slow down the movement of surrounding enemies and deal a small amount of damage.
+Traverse Town Shop: 800 Munny
+Sliding Dash + Cure
+Rising Strike + Cure
+Opinion: 3/5 Range is nice and large, but never super useful
+
+Stop (Memory Consumption: 14%)
+-Stop surround enemies from moving and deal a small amount of damage.
+Olympus Shop: 800 Munny
+N/A
+Opinion: 4/5 Range is nice and large, useful for managing
+
+Confuse (Memory Consumption: 14%)
+-Cause surrounding enemies to attack each other, and deal a small amount of damage.
+Hollow Bastion Riku Shop: 800 Munny
+N/A
+Opinion: 2/5 Range is nice and large, never useful
+
+Quake (Memory Consumption: 15%)
+-Generate an earthquake that stuns and deals major damage to foes near the ground.
+SYNTH ONLY
+Zantetsuken + Cyclone
+Opinion: 4/5 very large range but ground enemies only, damage makes up for it
+

@@ -1,0 +1,27 @@
+﻿@foreach (var group in _commands)
+{
+    <h1>@group.Key.ToString()</h1>
+
+
+    <table class="table">
+        <thead>
+            <th></th>
+            <th></th>
+        </thead>
+        <tbody>
+            @foreach (var cmd in group)
+            {
+                <tr @onclick="() => NavigateToPage(cmd.CommandId)">
+                    <td>
+                        <CommandName Command="cmd" />
+                    </td>
+                    <td>
+                        @(cmd.OpinionScore) / 5
+                        @(cmd.OpinionDescription)
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}

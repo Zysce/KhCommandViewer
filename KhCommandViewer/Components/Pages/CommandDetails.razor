@@ -1,0 +1,107 @@
+﻿@page "/command/{id:int}"
+
+<h1>Command</h1>
+
+@if (_command != null)
+{
+    <table class="table">
+        <thead>
+        <th></th>
+        <th></th>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="title">Name</td>
+                <td>
+                    <CommandName Command="_command" />
+                </td>
+            </tr>
+            <tr>
+                <td class="title">Type</td>
+                <td>
+                    @_command.CommandType.ToString()
+                </td>
+            </tr>
+            <tr>
+                <td class="title">Description</td>
+                <td>
+                    @_command.Description
+                </td>
+            </tr>
+            <tr>
+                <td class="title">MemoryConsumption</td>
+                <td>
+                    @(_command.MemoryConsumption)%
+                </td>
+            </tr>
+            <tr>
+                <td class="title">Shop</td>
+                <td>
+                    @if (_command.Shop)
+                    {
+                        <span>@_command.Cost</span>
+                    }
+                    else
+                    {
+                        <span>N/A</span>
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td class="title">Opinion</td>
+                <td>
+                    @(_command.OpinionScore) / 5
+                    @(_command.OpinionDescription)
+                </td>
+            </tr>
+            <tr>
+                <td class="title">Synthesis Sources</td>
+                <td>
+                    <table class="table">
+                        <tbody>
+                            @foreach (var synthesis in _command.Synthesis)
+                            {
+                                <tr>
+                                    <td>
+                                        <div class="clickable" @onclick="() => NavigateToPage(synthesis.Command1Id)">
+                                            <CommandName Command="@synthesis.Command1" />
+                                        </div>
+                                    </td>
+                                    <td>+</td>
+                                    <td>
+                                        <div class="clickable" @onclick="() => NavigateToPage(synthesis.Command2Id)">
+                                            <CommandName Command="@synthesis.Command2" />
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="title">Current command is used as synthesis ingredient for</td>
+                <td>
+                    <table class="table">
+                        <tbody>
+                            @foreach (var commandResult in _ingredients)
+                            {
+                                <tr>
+                                    <td>
+                                        <div class="clickable" @onclick="() => NavigateToPage(commandResult.CommandId)">
+                                            <CommandName Command="@commandResult" />
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>Loading...</em></p>
+}

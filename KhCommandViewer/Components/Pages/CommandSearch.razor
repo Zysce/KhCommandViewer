@@ -1,0 +1,17 @@
+﻿<div class="search-container">
+    <RadzenLabel Text="Select Value" Component="CommandSearchDD" />
+    <RadzenDropDown
+        @bind-Value=_value
+        AllowClear="true"
+        LoadData=@OnLoadData 
+        Change="OnChange"
+        AllowFiltering="true"
+        Data=@_commands 
+        TextProperty="Name" 
+        ValueProperty="CommandId"
+        Name="CommandSearchDD">
+        <Template>
+            <CommandName Command="@context" />
+        </Template>
+    </RadzenDropDown>
+</div>

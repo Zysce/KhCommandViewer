@@ -1,0 +1,12 @@
+table {
+    &.table {
+        tr {
+            &:hover {
+                td {
+                    background-color: gray;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
